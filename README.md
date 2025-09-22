@@ -23,7 +23,7 @@ Our goal is not just to build a predictive model, but to **interpret its decisio
 
 ##  Model  
 
-We use a **Random Forest Classifier** (`sklearn.ensemble.RandomForestClassifier`) trained on the processed dataset.  
+I use a **Random Forest Classifier** (`sklearn.ensemble.RandomForestClassifier`) trained on the processed dataset.  
 
 
 from sklearn.ensemble import RandomForestClassifier
