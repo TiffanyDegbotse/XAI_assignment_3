@@ -26,8 +26,8 @@ Our goal is not just to build a predictive model, but to **interpret its decisio
 I use a **Random Forest Classifier** (`sklearn.ensemble.RandomForestClassifier`) trained on the processed dataset.  
 
 
-from sklearn.ensemble import RandomForestClassifier
-model = RandomForestClassifier(random_state=42)
+-from sklearn.ensemble import RandomForestClassifier
+-model = RandomForestClassifier(random_state=42)
 
 ---
 
